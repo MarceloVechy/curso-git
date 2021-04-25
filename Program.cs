@@ -12,6 +12,7 @@ namespace Projet_Teste_Git
         {
             Console.WriteLine("Olá Mundo");
             Console.WriteLine("Bom dia!");
+            Console.WriteLine("Como voce está ?");
 
             Console.ReadLine();
         }

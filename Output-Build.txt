@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: Projet-Teste-Git, Configuration: Debug|AnyCPU ------
+1>  Projet-Teste-Git -> C:\Users\marce\OneDrive\Desktop\Projet-Teste-Git\Projet-Teste-Git\bin\Debug\Projet-Teste-Git.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
