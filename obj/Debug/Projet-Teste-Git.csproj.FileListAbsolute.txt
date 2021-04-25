@@ -1,0 +1,7 @@
+C:\Users\marce\OneDrive\Desktop\Projet-Teste-Git\Projet-Teste-Git\bin\Debug\Projet-Teste-Git.exe.config
+C:\Users\marce\OneDrive\Desktop\Projet-Teste-Git\Projet-Teste-Git\bin\Debug\Projet-Teste-Git.exe
+C:\Users\marce\OneDrive\Desktop\Projet-Teste-Git\Projet-Teste-Git\bin\Debug\Projet-Teste-Git.pdb
+C:\Users\marce\OneDrive\Desktop\Projet-Teste-Git\Projet-Teste-Git\obj\Debug\Projet-Teste-Git.csprojAssemblyReference.cache
+C:\Users\marce\OneDrive\Desktop\Projet-Teste-Git\Projet-Teste-Git\obj\Debug\Projet-Teste-Git.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Desktop\Projet-Teste-Git\Projet-Teste-Git\obj\Debug\Projet-Teste-Git.exe
+C:\Users\marce\OneDrive\Desktop\Projet-Teste-Git\Projet-Teste-Git\obj\Debug\Projet-Teste-Git.pdb
